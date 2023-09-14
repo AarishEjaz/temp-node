@@ -1,0 +1,3 @@
+hree is the result: hello i am first file ,hello i am second file
+
+i am result
